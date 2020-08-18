@@ -1,0 +1,19 @@
+.custom-gradient {
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 159, 255),
+    rgb(236, 47, 75)
+  );
+}
+.fullheight {
+  height: 100vh !important;
+}
+
+.lightgray {
+  background-color: #cabbe9;
+}
+
+.responseimg {
+  max-width: 30%;
+  height: auto;
+}
